@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.hero{
+    background: url(../images/bg-hero-desktop.svg);
+    background-size:cover;
+    background-color: hsl(193, 100%, 96%);
+}
